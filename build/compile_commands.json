@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/saifu/OneDrive/Documents/Raycasting C++/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++20 -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\raycaster.dir\\main.cpp.obj -c \"C:\\Users\\saifu\\OneDrive\\Documents\\Raycasting C++\\main.cpp\"",
+  "file": "C:/Users/saifu/OneDrive/Documents/Raycasting C++/main.cpp",
+  "output": "CMakeFiles/raycaster.dir/main.cpp.obj"
+}
+]
