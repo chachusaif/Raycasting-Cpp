@@ -47,8 +47,8 @@ Everything above the platform layer is written by hand: the renderer, the camera
 ### Steps
 
 ```bash
-git clone https://github.com/chachusaif/Raycasting-C++.git
-cd Raycasting-C++
+git clone https://github.com/chachusaif/Raycasting-Cpp.git
+cd Raycasting-Cpp
 cmake -B build -DCMAKE_BUILD_TYPE=Release
 cmake --build build
 ```
